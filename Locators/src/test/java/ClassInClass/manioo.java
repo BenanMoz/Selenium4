@@ -11,6 +11,7 @@ public class manioo {
      Child.s = "ttt";
      Child.y = 4;
      parent.s = "sdsds";
+     parent.s = "fff";
 
      Child.print(6);
      Child.print();
